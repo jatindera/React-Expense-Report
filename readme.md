@@ -1,5 +1,5 @@
 # Welcome
-This is a react application to manage monthly expenses.
+This is a react application to manage monthly expenses
 
 # Credits
 Credits [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
