@@ -16,5 +16,9 @@ npm start
 ```
 
 # Screenshots
+
+## Screen 1
 ![screen1](./public/screen1.png)
+
+## Screen 2
 ![screen2](./public/screen2.png)
