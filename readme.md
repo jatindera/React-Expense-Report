@@ -5,12 +5,12 @@ This is a react application to manage monthly expenses.
 Credits [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 # Instructions
-To install the dependencies of the app run
+To install the dependencies of the app, please run
 ```bash
 npm install
 ```
 
-To run the app use
+To run the app, please use
 ```bash
 npm start
 ```
